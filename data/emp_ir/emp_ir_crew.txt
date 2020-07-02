@@ -1,0 +1,421 @@
+Name;Position
+*Kendall, Henry George; Master
+Steede, Mansfield Richard; Chief Officer
+*Jones, Edward John; First Officer
+Williams, Roger; Second Officer
+*File, Osmond; Extra Second Officer
+Moore, Charles Alwyn; Third Officer
+Tunstall, Bertram; Fourth Officer
+*Ferguson Ronald; Telegraphist
+*Bamford, Edward; Telegraphist
+Peterson, William Victor; Carpenter
+Taylor, Walter; Carpenter’s mate
+*Sprague, Thomas William; Boatswain
+*Radley Alexander Christie; Boatswain’s mate
+Thompson, Gerard Joseph; Plumber
+*Saunders, Robert; Master-at-arms
+Preston, John Edward; Inspector
+*Galway, James Francis; Quartermaster
+Gutcher, James Duncan; Quartermaster
+*Murphy, John; Quartermaster
+Sharples, William Henry; Quartermaster
+Williams, William; Lamp trimmer
+*Bruin, Thomas; AB
+*Carroll, John; AB
+*Clarke, J.; AB
+Corrigan, Thomas; AB
+Crayton, Robert; AB
+*Dennehy, Edward; AB
+*Dennis, Thomas; AB
+*Downey, Thomas *Shawn; AB
+*Evans, Albert L.; AB
+*Evans, John; AB
+*Fitzpatrick, John; AB
+Flagel, J.; AB
+Harford, N.; AB
+*Hudson, John *Henry; Couch AB
+*Jeffries, Joseph F.; AB
+*Lang, Benjamin; AB
+Leonard, Thomas; AB
+Lyons, William Henry; AB
+*Maguire, John; AB
+*McCoy, John William; AB
+*McDougal, Duncan; AB
+*McEwan, John; AB
+*Moran, James; AB
+O’Sullivan, James; AB
+Riley, John; AB
+*Simms, John; AB
+Bent, James; OS
+*Brown, William; OS
+*Disley, John; OS
+*Fawcett, William *Wright; OS
+*Fitzgerald, H.; OS
+*Gratwick, Thomas William; OS
+*Jones, Daniel Henry; OS
+Learmouth, George Seaton; OS
+Leonard, Mark; OS
+*Price, John Henry; OS
+Bell, Joseph Robert; Deck Boy
+Gallagher, William; Deck Boy
+*Sampson, William; Chief Engineer
+Jones, John Mackenzie; Senior Second Engineer
+*Hampton, William Joseph; Intermediate Second Engineer
+*Brennan, Robert Henry; Junior Second Engineer
+*Liddell, Robert Roberts; Senior Third Engineer
+*O’Donovan, George Stephen; Intermediate Third Engineer
+*McOnie, George Randolph; Junior Third Engineer
+Gillespie, Robert Walls; Senior Fourth Engineer
+*McDonald, Charles *Keven; Intermediate Fourth Engineer
+McEwan, James; Junior Fourth Engineer
+Williamson, Percy Robert; Fifth Engineer
+*Smith, Alfred E.; Sixth Engineer
+/White, John Bell; Seventh Engineer
+*Johnston, John *Alexander;
+Beddows; Eighth Engineer
+Caley, Frederick John; Ninth Engineer
+*Swan, John Henry; Tenth Engineer
+*Grant, John; Chief Electrician
+*Duckworth, William *Barrett D.; Electrician
+*Connor, James; Donkeyman
+*Davidson, George; Storekeeper
+*Connor, John; Greaser
+*D’Arcy, Patrick; Greaser
+*Duggan, Patrick; Greaser
+Healey, James; Greaser
+*Holden, Samuel; Greaser
+*Maher, Patrick; Greaser
+*McAdam, William; Greaser
+*McAleavey, Michael; Greaser
+*Megson, John; Greaser
+*Nelson, Cornelius; Greaser
+*O’Donnell, Daniel; Greaser
+*Reardon, Daniel; Greaser
+Ross, William; Greaser
+*Sheridan, Robert; Greaser
+Starr, Edmund; Greaser
+*Stephens, John; Greaser
+Summers, John; Greaser
+*Williams, William; Greaser
+*Malone, Peter *James; Leading Fireman
+*Malone, Bernard; Leading Fireman
+McGuinness, Michael; Leading Fireman
+*McGuinness, Thomas; Leading Fireman
+*Whitty, John Leading; Fireman
+*Bailey, George; Fireman
+Barber, John; Fireman
+Boyd, Edward; Fireman
+*Clarke, William; Fireman
+Crowther, John George; Fireman
+*Davies, Peter; Fireman
+*Davis, John; Fireman
+*Duffy, John; Fireman
+*Flood, Thomas; Fireman
+Hepburn, John David; Fireman
+*Hutchinson, George; Fireman
+*Jackson, Charles E.; Fireman
+Jump, Joseph; Fireman
+*Maguire, John *Thomas; Fireman
+McCabe, James; Fireman
+*McCowan, James; Fireman
+*McCready, Thomas; Fireman
+McGuinness, Robert M.; Fireman
+McMahon, Peter; Fireman
+McManus, John Henry; Fireman
+*Murphy, Peter; Fireman
+O’Neill, Nicholas; Fireman
+*O’Toole, Patrick; Fireman
+Regan, Michael; Fireman
+Reid, H.; Fireman
+Reid, James; Fireman
+*Rockford, Michael; Fireman
+*Rowland, Joseph Samuel; Fireman
+*Ryan, John; Fireman
+Shannon, Edward; Fireman
+*Smythe, James; Fireman
+*Stephens, John; Fireman
+Tumilty, Bernard James; Fireman
+Walden, David Heron; Fireman
+*Whitty, James; Fireman
+Worthington, Patrick Joseph; Fireman
+*Campbell, John Mercer Fireman; (substitute May 15)
+Lally, James; Fireman (substitute May 15)
+*Rice, Edward; Fireman (substitute May 15)
+*Somers, Mathew; Fireman (substitute May 15)
+Fitchett, Edward; Fireman (substitute May 28)
+Fournier, Henry; Fireman (substitute May 28)
+Anderson, William James; Trimmer
+*Brown, Patrick; Trimmer
+*Campbell, Michael; Trimmer
+*Clarke, John Joseph; Trimmer
+Cody, Michael; Trimmer
+*Davis, John; Trimmer
+Deery, John; Trimmer
+*Dolan, Paul; Trimmer
+*Foster, Ernest; Trimmer
+Grant, Edward.; Trimmer
+*Houghton, J. or Thomas; Trimmer
+Jump, John Thomas; Trimmer
+Kane, Thomas; Trimmer
+*Keegan, John; Trimmer
+*King, John; Trimmer
+*Maguire, Joseph; Trimmer
+*Mathews, John; Trimmer
+McBride, William Frederick; Trimmer
+*McCabe, Richard; Trimmer
+*McCabe, Thomas; Trimmer
+McEnroe, Edward; Trimmer
+*McGuinness, John; Trimmer
+*Mitchell, James; Trimmer
+Mulvaney, William; Trimmer
+*Murphy, William Bristow; Trimmer
+*Murray, Peter; Trimmer
+O’Connell, Daniel; Trimmer
+*O’Toole, James Patrick; Trimmer
+*Quinn, John; Trimmer
+*Quinn, William; Trimmer
+Reid, James; Trimmer
+*Robinson, William; Trimmer
+*Smith, James; Trimmer
+*Wilson, John; Trimmer
+*Donaldson, John; Trimmer (substitute May 15)
+Murden, Reuben Joseph; Trimmer (substitute May 15)
+*Morgan, John; Trimmer (substitute May 15)
+*Ryan, Thomas; Trimmer (substitute May 15)
+Welsh, Thomas; Trimmer (substitute May 15)
+*Cottle, Samuel; Trimmer (substitute May 28)
+*Dunn, John; Trimmer (substitute May 28)
+*Hayes, Edward; Trimmer (substitute May 28)
+Kirwin, James; Trimmer (substitute May 28)
+*Mountain, Thomas; Trimmer (substitute May 28)
+*Neale, Henry; Trimmer (substitute May 28)
+*White, Henry; Trimmer (substitute May 28)
+*Wilson, James; Trimmer (substitute May 28)
+McDonald, Alexander Betteley; Purser
+*Hayes, Ernest Assistant; Purser
+*Wakeford, Charles Assistant; Purser
+Cox, Samuel Allen; Engineer’s Writer
+Rankin, Alexander Carmichael; Engineer’s Writer
+Hamilton, Frank William; Ticket Agent
+*Grant, Dr James Frederic; Surgeon
+*Gaade, Augustus William; Chief Steward First Class
+Craik, Alexander Christopher; Second Steward First Class
+Wildman, James Alison; Storekeeper
+*Burns, Charles; Assistant Storekeeper
+Hudson, William Daniel; Barkeeper
+*Davies, John; Barkeeper
+Jones, Henry Andrew; Chief Saloon Steward
+*Williams, Arthur Clement; Second Saloon Steward
+*Chadwick, John Arthur; Saloon Steward
+Cheetham, John Mackintosh; Saloon Steward
+Cope, Hector Allan; Saloon Steward
+Delaney, Austin; Saloon Steward
+*Fayle, Robert Russell; Saloon Steward
+*Gee, Percy; Saloon Steward
+*Gray, Arthur; Saloon Steward
+*Gray, William Whitla; Saloon Steward
+Hadfield, William James; Saloon Steward
+Hopwood, William; Saloon Steward
+*Hughes, William *Henry; Saloon Steward
+*Hughes, William Lawrence; Saloon Steward
+*Jacques, Henry; Saloon Steward
+*Jones, Clark; Saloon Steward
+Lawrie, James; Saloon Steward
+Lennon, George; Saloon Steward
+Manderson Walter George; Saloon Steward
+*McWilliam, Robert *Bowen; Saloon Steward
+Metcalfe, George *Joshua; Saloon Steward
+Myers, John James; Saloon Steward
+Newham, Henry; Saloon Steward
+Orford, George Leonard; Saloon Steward
+*Parkinson, Charles Richard; Saloon Steward
+*Pinner, Charles; Saloon Steward
+*Price, Thomas; Saloon Steward
+*Rowen, William; Saloon Steward
+Smith, Henry ‘Harry’; Saloon Steward
+*Smith, Joseph; Saloon Steward
+*Smith, Charles Hopley; Saloon Steward
+*Mellor, Herbert James; Deck Steward
+Durkin, John; Cafe Steward
+Gerrard, Thomas; Smoke Room Steward
+Ainge, Edward; Linen Steward
+*Holt, Robert Armor; Chief Bedroom Steward
+Braine, Edward William; Bedroom Steward
+*Burrows, Thomas; Bedroom Steward
+Derbyshire, Anthony Muir; Bedroom Steward
+*Hughes, Hugh; Bedroom Steward
+*Jones, Harold; Bedroom Steward
+*Murtagh, Matthew; Bedroom Steward
+*Nugent, William *James;
+Christopher; Bedroom Steward
+Smith, Walter Beaumont; Bedroom Steward
+*Gill, Nathaniel; First Saloon Pantryman
+*Coombs, Charles *William; Second Saloon Pantryman
+*Cope, John; Assistant Pantryman
+McCoy, R.L.; Assistant Pantryman
+*Prince, William; Assistant Pantryman
+*Morl, William; Boots/Nightwatchman
+*Powell, Leonard *Amos George; Assistant Boots/Nightwatchman
+Lightfoot, George; Officer’s Steward
+*Baker, Stanley James; Bellboy
+Hamilton, James Alfred; Bellboy
+Jones, Percy Reginald; Bellboy
+Murtagh, William Joseph; Bellboy
+*Spencer, Charles Herbert; Bellboy
+*Glasberg, Rudolph C.; First Class Barber
+Ratcliffe, Jack; Assistant Steward
+Chance, William George; Captain’s Steward
+Roberts, James; Engineer’s Mess Steward
+*Hird, William; Assistant Engineer’s Mess Std
+Cochrane, Andrew Leslie; Engineer’s Boy
+Highfield, William Duncan Cameron; Printer
+*Duggan, John; Assistant Printer
+Jones, Miriam (Roberts); Matron
+Jones, Ellen Eliza (Birch); Stewardess
+Riddell, Alice; Stewardess
+Page, Clarrie May; Stewardess
+*Williams, Thomas S.; Chief Steward Second Class
+Richards, Sidney Edward; Assistant Chief Steward Second Class
+*Brown, John; Steward
+*Challis, Montague Edward; Steward
+*Cure, Albert James (Jackson); Steward
+Dawson, Edward; Steward
+*Flinn, George *Fitzroy; Steward
+Herbert, William; Steward
+Jones, Harold; Steward
+*Jones, Owen; Steward
+*Metcalfe, Thomas; Steward
+Neilson, George; Steward
+*Owen, William Salisbury; Steward
+Parkinson, Frank George; Steward
+Pelton, Benjamin David J.; Steward
+*Pritchard, Oliver; Steward
+*Prowse, James Bebbington; Steward
+Reich, Joseph Alexander M.; Steward
+*Roberts, William; Steward
+Rushton, Joseph Albert; Steward
+*Shannon, Francis Joseph; Steward
+*Smith, Albert E.; Steward
+*Smith, Harry K.; Steward
+Vivian, Bertie Adams; Steward
+Wilson, Frank; Steward
+Tunstall, Harold; Steward
+Terry, John; Bathroom Steward
+Wright, Alfred; Bathroom Steward
+Singer, Joseph Edward (Shortsinger); Night Watchman
+Trainor, Nicholas; Boots/Night Watchman
+Perry, Harold Assistant; Boots/Night Watchman
+Willis, George Oswald; Smoke Room Steward
+Jones, Henry; Second Class Barber
+Fisher, Samuel Charles; Bellboy
+*Absolon, Victor; Bedroom Steward
+*Byrne, John; Bedroom Steward
+Cooper, Walter; Bedroom Steward
+Crabb, Joseph; Bedroom Steward
+Dixon, Harold; Bedroom Steward
+Gill, James Philip; Bedroom Steward
+Harold, William; Bedroom Steward
+*Harrison, Frank; Bedroom Steward
+Jacob, Alfred Henry; Bedroom Steward
+*McDonald, Louis Adam; Bedroom Steward
+Mitchell, Robert; Bedroom Steward
+Muir, Charles William; Bedroom Steward
+Walker, Thomas Lyle; Bedroom Steward
+*Parry, D.; Bedroom Steward
+Passmore, Charles Joseph; Bedroom Steward
+*Williams, Richard; Bedroom Steward
+Pearson, Sophia Jane (Varley); Stewardess
+Stratton, Lucilla (Kennerley); Stewardess
+Negus, Matilda (Ibbotson); Stewardess
+Munro, William Anderson; Chief Second Class Pantryman
+*Copplin, George; Second Second Class Pantryman
+Mohring, Guy; Assistant Second Class Pantryman
+Lewis, Charles Chief; Steward Third Class
+*Robertson, John Second; Third Class Steward
+Dehnel, Charles Henry.; Interpreter
+Owen, Robert; Third Class Pantryman
+Faulkner, Reginald; Assistant Third Class Pantryman
+*Thomson, Archibald; Assistant Third Class Pantryman
+Gregory, Frederick; Steward
+Jones, John Jameson; Bedroom Steward
+Thomas, William; Steward
+Fitzpatrick, Alexander; Steward
+Myers, Frank; Deck Steward
+*Pritchard, John; Steward
+*Dumbell, Thomas Baker; Steward
+*Haigh, Samuel Ernest; Steward
+*McSherry, James; Steward
+*Morland, Harold Reginald; Steward
+Williams, Gwilym Caradoc; Steward
+Lewis, Henry; Steward
+*Williams, Joseph; Steward
+*Grieves, George; Steward
+*Donegan, James; Steward
+Clare, William; Steward
+Snowden, John Robert; Steward
+*Dixon, Arthur Henry; Steward
+McGrath, John; Steward
+*Hayes, Joseph Arthur; Steward
+*Gibson, John Victor; Steward
+Madden, Francis John; Steward
+*Clague, Robert Henry; Steward
+*Fereday, Arthur William; Steward
+Gale, Thomas John; Steward
+Phenna, Frederick; Steward
+Hunt, Thomas William Dean; Steward
+*Cooke, Thomas; Steward
+*Canepa, William Lazarus; Steward
+Baker, Thomas Henry; Steward
+Murphy, Jack; Steward
+*Pitts, William Henry; Steward
+Crellin, Robert William; Steward
+Skerritt, Leonard Paul; Steward
+*Green, Frederick George; Steward
+Gavigan, Bernard; Steward
+*Hobson, Sydney Francis; Bugler/Officer’s Steward
+*Hollies, Harriet Ellen (Coombs); Stewardess
+Dinwoodie, Agnes Ethel; Stewardess
+Leders, Elizabeth (Turnbull); Stewardess
+*Norman, Frank Samuel; Chief Musician
+Furness, John William; First Violinist
+Baxter, George R.; Pianist
+*Hope-Childs, Harold Bertram; Musician
+*Pemberton, Albert Joseph T.; Musician
+*Matthews, John Edward; Chef
+Glover, Thomas Henry; Sauce and Entree Cook
+*Lee, Sydney Assistant; Sauce and Entree Cook
+*Turner, Joseph Assistant; Sauce and Entree Cook
+Harrison, Frank; Grill and Roast Cook
+Pierce, Augustus; Assistant Grill and Roast Cook
+*Ventre, Joseph; Vegetable Cook
+*Simon, Albert Henry; Assistant Vegetable Cook
+Pritchard, Ernest Norman; Assistant Vegetable Cook
+*Clandon, Henry C.; 1st First Class Cook
+*Knill, Arthur; 2nd First Class Cook
+*Sharkey, Martin; 3rd First Class Cook
+Johnson, Harold; 4th First Class Cook
+Gardner, William; Scullion
+*Wynne, Edward Thomas; Scullion
+*McAleavey, Patrick; Scullion
+Bray, William Edward; Kitchen Porter
+*Haran, Patrick; Passenger Cook
+*Lewis, John; Assistant Passenger Cook
+Lappin, William Henry; Assistant Passenger Cook
+*Cunningham, James J.; Assistant Passenger Cook
+*Williams, David; Assistant Passenger Cook
+Johnson, James; Ship’s Cook
+Leary, Charles; Assistant Ship’s Cook
+Swinton, Alexander (John Black); Chief Baker
+*Rohr, Arnold; Confectioner
+*Braithwaite, Isaac; Second Baker
+*Elliott, Alfred Douglas; Third Baker
+*Shaw, Henry Edward; Fourth Baker
+*Douglas, Thomas; Fifth Baker
+*Smith, Thomas John; Sixth Baker
+*McDonnell, Michael Joseph; Chief Butcher
+*Knight, Robert; Second Butcher
+*Dawson, Alfred; Third Butcher
+*Paterson, John; Fourth Butcher
+*Bishop, Thomas; Assistant Ship’s Cook
+Corfe, John Eustace; Scullion
+Madden, Bertha Emma (Brown); Stewardess
